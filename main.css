@@ -1,5 +1,18 @@
 h3{
   color:#3500D3;
-  font-family: castellar, algerian;
+  font-family: 'castellar', algerian;
   font-size:60px;
+}
+.avicii {
+  background-image:
+   url(avicii1.jpg);
+  background-size:cover;
+}
+.avicii {
+  color:#66FCF1;
+	padding: 250px 0;
+	margin: 30px;
+}
+.avicii {
+  font-family: 'algerian', Helvetica, sans-serif;
 }

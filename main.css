@@ -5,7 +5,7 @@ h3{
 }
 .levels {
   background-image:
-   url(https://github.com/Schatten05/schatten05.github-io/blob/master/avicii1.jpg);
+  <img src="avicii1.jpg"/>;
   background-size:cover;
 }
 .levels {
@@ -14,5 +14,5 @@ h3{
 	margin: 30px;
 }
 .levels {
-  font-family: 'algerian', Helvetica, sans-serif;
+  font-family: 'algerian', Helvetica;
 }

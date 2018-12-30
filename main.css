@@ -4,6 +4,10 @@ h3{
   font-size:60px;
 	justify-content:center;
 }
+.makeme{
+	 font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color:#41B3A3;
+}
 .levels {
   background-image:
   url("avicii1.jpg");
